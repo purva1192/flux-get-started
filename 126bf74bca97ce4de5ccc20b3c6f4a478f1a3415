@@ -1,0 +1,1 @@
+{"jobID":"f7f9d923-787e-2237-0831-dbbb1a4fd024","spec":{"type":"policy","cause":{"Message":"","User":"Purva Sawant \u003cpurva@gladly.com\u003e"},"spec":{"demo:helmrelease/mongodb":{"add":{"automated":"true"},"remove":null}}},"result":null}
